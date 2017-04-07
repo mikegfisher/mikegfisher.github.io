@@ -1,1 +1,1 @@
-document.querySelector("#myParagraph").innerHTML = "Changed by JS";
+console.log('running');
